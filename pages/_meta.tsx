@@ -7,9 +7,9 @@ export default {
     type: "page",
   },
   contact: {
-    title: "Contact ↗",
+    title: "RUA ↗",
     type: "page",
-    href: "https://twitter.com/shuding_",
+    href: "https://rua.plus/",
     newWindow: true,
   },
 };
